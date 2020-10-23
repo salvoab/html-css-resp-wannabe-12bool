@@ -1,7 +1,46 @@
-img{
-  height: 200px;
-}
-
+/* Utility */
 .text-center{
   text-align: center;
+}
+
+.p-20{
+  padding: 20px;
+}
+.py-20{
+  padding: 20px 0;
+}
+.pt-80{
+  padding-top: 80px;
+}
+
+.mt-80{
+  margin-top: 80px;
+}
+/* END Utility */
+
+/* Typo */
+h1, h2{
+  font-size: 3rem;
+}
+
+h3{
+  font-size: 2rem;
+}
+
+p{
+  font-size: 1.2rem;
+}
+/* END Typo */
+
+img{
+  height: 200px;
+  padding: 20px;
+}
+
+p{
+  padding: 10px 20px;
+}
+
+.grey{
+  background-color: #f9f9f9;
 }
